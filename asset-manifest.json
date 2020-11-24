@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/internship-project/static/css/main.7bf3f54b.chunk.css",
+    "main.js": "/internship-project/static/js/main.d53bd7cc.chunk.js",
+    "main.js.map": "/internship-project/static/js/main.d53bd7cc.chunk.js.map",
+    "runtime-main.js": "/internship-project/static/js/runtime-main.a4671d91.js",
+    "runtime-main.js.map": "/internship-project/static/js/runtime-main.a4671d91.js.map",
+    "static/js/2.365dc3e2.chunk.js": "/internship-project/static/js/2.365dc3e2.chunk.js",
+    "static/js/2.365dc3e2.chunk.js.map": "/internship-project/static/js/2.365dc3e2.chunk.js.map",
+    "index.html": "/internship-project/index.html",
+    "precache-manifest.a6cdfa36d6f88a5a630acd112b8369ed.js": "/internship-project/precache-manifest.a6cdfa36d6f88a5a630acd112b8369ed.js",
+    "service-worker.js": "/internship-project/service-worker.js",
+    "static/css/main.7bf3f54b.chunk.css.map": "/internship-project/static/css/main.7bf3f54b.chunk.css.map",
+    "static/js/2.365dc3e2.chunk.js.LICENSE.txt": "/internship-project/static/js/2.365dc3e2.chunk.js.LICENSE.txt",
+    "static/media/business.svg": "/internship-project/static/media/business.c6e97801.svg",
+    "static/media/call.svg": "/internship-project/static/media/call.aaf90db2.svg",
+    "static/media/check.svg": "/internship-project/static/media/check.8942fbcb.svg",
+    "static/media/hub.svg": "/internship-project/static/media/hub.6cfee57d.svg",
+    "static/media/icws.png": "/internship-project/static/media/icws.ffaeebfa.png",
+    "static/media/integration.svg": "/internship-project/static/media/integration.5ea51096.svg",
+    "static/media/legacy.svg": "/internship-project/static/media/legacy.11c94b04.svg",
+    "static/media/logo.svg": "/internship-project/static/media/logo.ee7cd8ed.svg",
+    "static/media/mobile.svg": "/internship-project/static/media/mobile.689cce52.svg",
+    "static/media/motto.svg": "/internship-project/static/media/motto.cc1595a7.svg",
+    "static/media/nav-menu.svg": "/internship-project/static/media/nav-menu.9ef6ddd0.svg",
+    "static/media/no_rest.svg": "/internship-project/static/media/no_rest.50a50a2f.svg",
+    "static/media/paint.svg": "/internship-project/static/media/paint.38b61977.svg",
+    "static/media/privacy.css": "/internship-project/static/media/privacy.be30a0e6.jpeg",
+    "static/media/products.svg": "/internship-project/static/media/products.20f61bf5.svg",
+    "static/media/remotely.svg": "/internship-project/static/media/remotely.c68dc658.svg",
+    "static/media/scaling.svg": "/internship-project/static/media/scaling.88ae0f0c.svg",
+    "static/media/seo.svg": "/internship-project/static/media/seo.4924b36a.svg",
+    "static/media/upArrow.svg": "/internship-project/static/media/upArrow.8e3366ba.svg",
+    "static/media/web.svg": "/internship-project/static/media/web.235a8d76.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4671d91.js",
+    "static/js/2.365dc3e2.chunk.js",
+    "static/css/main.7bf3f54b.chunk.css",
+    "static/js/main.d53bd7cc.chunk.js"
+  ]
+}
